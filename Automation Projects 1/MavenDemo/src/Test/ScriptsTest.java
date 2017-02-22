@@ -19,7 +19,8 @@ public class ScriptsTest {
 	public void testEasy() {	
 		driver.get("http://www.guru99.com/selenium-tutorial.html");  
 		String title = driver.getTitle();				 
-		Assert.assertTrue(title.contains("Free Selenium Tutorials")); 		
+		Assert.assertTrue(title.contains("Free Selenium Tutorials"));
+		System.out.println(title);
 	}	
 	@BeforeTest
 	public void beforeTest() {	
