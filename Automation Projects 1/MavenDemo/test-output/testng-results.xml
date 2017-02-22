@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="11111" started-at="2017-02-22T13:16:11Z" finished-at="2017-02-22T13:16:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="11111" started-at="2017-02-22T13:16:11Z" finished-at="2017-02-22T13:16:22Z">
+      <class name="Test.ScriptsTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Test.ScriptsTest@b39c39]" name="beforeTest" is-config="true" duration-ms="2762" started-at="2017-02-22T18:46:11Z" finished-at="2017-02-22T18:46:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="init()[pri:0, instance:Test.ScriptsTest@b39c39]" name="init" duration-ms="0" started-at="2017-02-22T18:46:14Z" finished-at="2017-02-22T18:46:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testEasy()[pri:0, instance:Test.ScriptsTest@b39c39]" name="testEasy" duration-ms="7412" started-at="2017-02-22T18:46:14Z" finished-at="2017-02-22T18:46:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Test.ScriptsTest@b39c39]" name="afterTest" is-config="true" duration-ms="930" started-at="2017-02-22T18:46:21Z" finished-at="2017-02-22T18:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Test.ScriptsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
